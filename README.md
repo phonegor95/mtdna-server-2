@@ -1,3 +1,5 @@
+> This personal fork adds an optional [Parabricks Mutect2 backend](docs/parabricks.md). GATK remains the default.
+
 # mtDNA-Server 2
 
 [![mtdna-server-2](https://github.com/genepi/mtdna-server-2/actions/workflows/run-tests.yml/badge.svg)](https://github.com/genepi/mtdna-server-2/actions/workflows/run-tests.yml)
